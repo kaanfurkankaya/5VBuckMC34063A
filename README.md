@@ -20,7 +20,7 @@ Bu proje, **MC34063AP** anahtarlamalı regülatör entegresi ile hazırlanmış 
 
 ## Teknik Özellikler
 
-- **Giriş:** 6.5V DC ve üzeri, 9V ile sınırlı değil
+- **Giriş:** 6.5V DC ve üzeri
 - **Çıkış:** 5V DC
 - **Hedef akım:** 300mA sürekli, 500mA maksimum
 - **Regülatör entegresi:** MC34063AP, DIP-8
