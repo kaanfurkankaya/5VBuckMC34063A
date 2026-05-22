@@ -6,17 +6,17 @@ Bu proje, **MC34063AP** anahtarlamalı regülatör entegresi ile hazırlanmış 
 
 ## Görseller
 
-> Fotoğraf yeri: Kartın ön yüzü (`docs/images/on-yuz.jpg`)
+### Şematik
 
-<!-- ![Kartın ön yüzü](docs/images/on-yuz.jpg) -->
+![Şematik](Şematik.png)
 
-> Fotoğraf yeri: Kartın bakır/alt yüzü (`docs/images/bakir-yuz.jpg`)
+### PCB Görünümü
 
-<!-- ![Kartın bakır yüzü](docs/images/bakir-yuz.jpg) -->
+![PCB görünümü](PCB.png)
 
-> Fotoğraf yeri: Tamamlanmış kart (`docs/images/tamamlanmis-kart.jpg`)
+### 3D Kart Görünümü
 
-<!-- ![Tamamlanmış kart](docs/images/tamamlanmis-kart.jpg) -->
+![3D kart görünümü](3D.png)
 
 ## Teknik Özellikler
 
