@@ -86,7 +86,7 @@ Bu değer çıkış akımıyla aynı şey değildir; bobin doyma akımı, diyot 
 
 ## Datasheet
 
-- [onsemi MC34063A / MC33063A Datasheet](https://www.onsemi.com/download/data-sheet/pdf/mc34063a-d.pdf)
+- [TI MC34063A / MC33063A Datasheet]([https://www.onsemi.com/download/data-sheet/pdf/mc34063a-d.pdf](https://www.ti.com/lit/ds/symlink/mc34063a.pdf))
 
 ## Uyarı
 
